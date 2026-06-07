@@ -3,11 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 这里是主页标题
-subtitle: '这个是副标题'
-description: '自我介绍'
-keywords:
-author: 你的名字
+title: 味增增的小站
+subtitle: '记录日常与随笔'
+description: '分享我的生活点滴'
+author: 味增增
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
